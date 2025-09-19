@@ -134,10 +134,10 @@ Hay un cambio de 8V a 100mV esto devido a la carga capacitiva y la velocidad max
 ---
 
 ## Resultados  
-- **Funcionamiento del sistema:** Se logró la codificación de palabras de 4 bits con paridad extendida, la detección de un error sencillo, la corrección automática del mismo y la identificación de errores dobles.  
+- **Funcionamiento del sistema:** Se logró la codificación de palabras de 4 bits con paridad sin embargo algunas funciones no funcionaron como debian haciendo que no se procesara la correcion   
 - **Simulación:** Se verificaron transiciones de entrada y salida, confirmando la robustez del diseño.  
 - **Recursos utilizados:** El diseño empleó LUTs y FFs en proporciones moderadas, sin comprometer el rendimiento de la FPGA.  
-- **Despliegue:** Los LEDs mostraron la palabra corregida y los displays de 7 segmentos representaron tanto la palabra transmitida como el síndrome de error.  
+- **Despliegue:** Los LEDs no lograron mostrar los digitos ni errores correguidos por algunos problemas de alambrado  
 
 ---
 
