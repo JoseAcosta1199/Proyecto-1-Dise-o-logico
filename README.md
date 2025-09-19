@@ -97,6 +97,8 @@ Para est
 ### Oscilador con 5 inversores 
 
 <img width="800" height="480" alt="DS0001" src="https://github.com/user-attachments/assets/8abd51e1-6270-45d2-ad9c-38d6883e2cca" />
+
+### Calculo del tiempo de retardo con un frecuencia de 60hz
 <img width="722" height="472" alt="image" src="https://github.com/user-attachments/assets/4af05cb0-ef18-44dd-bebf-3aba493280fa" />
 
 
