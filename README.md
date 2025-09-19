@@ -86,11 +86,15 @@ Para comprobar el funcionamiento en hardware, se realizaron conexiones físicas 
    - Los cátodos se cablearon directamente a las salidas de la FPGA.
 
 4. **Alimentación:**  
-   - La protoboard se alimentó con 3.3 V desde la FPGA TangNano, asegurando compatibilidad de niveles lógicos.  
+   - La protoboard se alimentó con 3.3 V desde la FPGA TangNano, asegurando compatibilidad de niveles lógicos.
+   - 
 
 El resultado del montaje fue un sistema interactivo: al variar los switches se podían introducir datos y errores, y las correcciones eran reflejadas en tiempo real tanto en LEDs como en los displays.
 
 ---
+
+<img width="735" height="1094" alt="image" src="https://github.com/user-attachments/assets/b55b32cf-4f15-472d-b2b7-03bff4a29d5d" />
+
 
 ## Ejercicio 2: Oscilador en anillo
 Para est
