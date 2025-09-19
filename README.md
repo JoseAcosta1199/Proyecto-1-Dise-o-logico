@@ -97,7 +97,7 @@ El resultado del montaje fue un sistema interactivo: al variar los switches se p
 
 
 ## Ejercicio 2: Oscilador en anillo
-Para est
+
 ### Oscilador con 5 inversores 
 
 <img width="800" height="480" alt="DS0001" src="https://github.com/user-attachments/assets/8abd51e1-6270-45d2-ad9c-38d6883e2cca" />
