@@ -67,6 +67,7 @@ El circuito se estructuró en subsistemas interconectados, siguiendo una arquite
 - Elaboración de bitácora con avances diarios.  
 - Redacción del presente informe en formato README.md.  
 
+
 ---
 
 ## Montaje físico en protoboard  
