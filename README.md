@@ -93,18 +93,35 @@ El resultado del montaje fue un sistema interactivo: al variar los switches se p
 ---
 
 ## Ejercicio 2: Oscilador en anillo
-Oscilador con 3 inversores 
+Para est
+### Oscilador con 5 inversores 
+
+<img width="800" height="480" alt="DS0001" src="https://github.com/user-attachments/assets/8abd51e1-6270-45d2-ad9c-38d6883e2cca" />
+
+### Oscilador con 3 inversores 
+
 <img width="800" height="480" alt="DS0010" src="https://github.com/user-attachments/assets/7027a929-9625-473f-a973-96af887a93d3" />
+
 El periodo de osilacion en la practica es de 16,7 ms
-Oscilado con un 1 metro de alambre 
+
+### Oscilado con un 1 metro de alambre 
+
 <img width="800" height="480" alt="DS0007" src="https://github.com/user-attachments/assets/158c6cae-1aef-4e30-a077-cc3db4b9a46d" />
+
 La amplitud y el ruido se ven afectado por la longitud del cable a comparacion de las medidas antesrios hechas con puentes cortos 
+
 Tension estable 
+
 <img width="800" height="480" alt="DS0008" src="https://github.com/user-attachments/assets/d377f2b0-11ba-4cde-9fd8-2fd5117c228e" /> 
-medicion sin el capacitor 
+
+### Medicion sin el capacitor 
+
 <img width="800" height="480" alt="DS0006" src="https://github.com/user-attachments/assets/9d88f8a3-df3b-40be-ba76-4737af28ed3c" />
-Medicion con el capacitor 
+
+### Medicion con el capacitor 
+
 Hay un cambio de 8V a 100mV esto devido a la carga capacitiva y la velocidad maxima de operacion de circuito.
+
 
 ---
 
